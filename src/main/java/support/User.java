@@ -49,7 +49,6 @@ public class User {
         DataYaml.setMapYamlValues("Usuarios","usuario",map);
     }
 
-
     public void getUser(){
         map = DataYaml.getMapYamlValues("Usuarios", "usuario");
         this.name = map.get("name").toString();
