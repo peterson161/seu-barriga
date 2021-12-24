@@ -24,7 +24,7 @@ public class User {
 
         switch (typeUser){
             case NEW_USER:
-                createUser("1234");
+                createUser();
                 break;
             case GET_USER:
                 getUser();
@@ -32,7 +32,7 @@ public class User {
         }
     }
 
-    public void createUser(String password){
+    public void createUser(){
         faker = new Faker();
         String firstName = faker.name().firstName();
         String lastName = faker.name().lastName();
@@ -41,7 +41,7 @@ public class User {
 
         this.name = fullName;
         this.email = email;
-        this.password = password;
+        this.password = "1234";
 
         map.put("name", fullName);
         map.put("user", email);
