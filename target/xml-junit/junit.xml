@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.298199">
+<testcase classname="Realizar tarefa de aluguel" name="Cadastrar um usuario e realizar o login" time="14.298199">
+<system-out><![CDATA[Dado acessar a aplicação....................................................passed
+Quando Realizar o login com um usuario "existente"..........................passed
+E exibir resumo mensal do mes "12" do ano "2021"............................passed
+E exluir movimentacao com descricao "Aluguel casa 14" e data "10/12/2021" e valor "-1654.12" e situacao "Pago".passed
+]]></system-out>
+</testcase>
+</testsuite>

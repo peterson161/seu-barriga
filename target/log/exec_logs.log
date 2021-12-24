@@ -1,0 +1,1087 @@
+[INFO ] 2021-12-06 00:20:11.422 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:20:16.057 [main] Verifications - Verificando se o elemento via locator By.xpath: //ul[@class='nav navbar-nav']//li//a[@href='/cadastro'] e visivel e clicavel
+[INFO ] 2021-12-06 00:20:16.059 [main] Action - Retornando um elemento web via locator By.xpath: //ul[@class='nav navbar-nav']//li//a[@href='/cadastro'] 
+[INFO ] 2021-12-06 00:20:17.574 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:20:17.575 [main] Hook - TESTE STATUS: UNDEFINED
+[INFO ] 2021-12-06 00:26:39.710 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:26:39.758 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:27:40.622 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:27:43.839 [main] Verifications - Verificando se o elemento via locator By.xpath: //ul[@class='nav navbar-nav']//li//a[@href='/cadastro'] e visivel e clicavel
+[INFO ] 2021-12-06 00:27:43.842 [main] Action - Retornando um elemento web via locator By.xpath: //ul[@class='nav navbar-nav']//li//a[@href='/cadastro'] 
+[INFO ] 2021-12-06 00:27:45.373 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:27:45.642 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:27:45.642 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 00:30:00.333 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:30:35.831 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:30:36.182 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:30:36.182 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 00:31:03.322 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:31:06.758 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:31:07.008 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:31:07.009 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 00:32:48.951 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:32:52.025 [main] Verifications - Verificando se o elemento via locator By.xpath: //ul[@class='nav navbar-nav']//li//a[@href='/cadastro'] e visivel e clicavel
+[INFO ] 2021-12-06 00:32:52.026 [main] Action - Retornando um elemento web via locator By.xpath: //ul[@class='nav navbar-nav']//li//a[@href='/cadastro'] 
+[INFO ] 2021-12-06 00:32:53.577 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:32:53.866 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:32:53.866 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 00:33:16.700 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:33:20.286 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:33:20.576 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:33:20.576 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 00:34:03.751 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:34:07.255 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:34:07.256 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 00:37:35.149 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:37:38.731 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:37:38.731 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 00:38:02.310 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:38:05.982 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:38:06.320 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:38:06.320 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 00:38:36.702 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:38:41.506 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:38:41.858 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:38:41.859 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 00:39:23.293 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:39:44.201 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:42:19.069 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:44:36.345 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:45:47.762 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 00:45:47.775 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 00:47:44.811 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:50:49.618 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:50:53.562 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 00:50:53.563 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 00:50:55.118 [main] Hook - TESTE FINALIZADO: Realizar um processo
+[INFO ] 2021-12-06 00:50:55.118 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 00:53:25.448 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:53:25.519 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:54:05.954 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:54:10.474 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 00:54:10.475 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 00:55:01.326 [main] Hook - TESTE INICIADO: Realizar um processo
+[INFO ] 2021-12-06 00:55:05.712 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 00:55:05.714 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 00:57:31.620 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 00:57:31.663 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:58:32.078 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 00:58:32.139 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 00:59:31.151 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 00:59:31.200 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 01:00:41.306 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:00:41.335 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 01:01:38.245 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:01:42.325 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 01:01:42.326 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 01:01:43.913 [main] Hook - TESTE FINALIZADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:01:43.914 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 01:02:54.408 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:02:54.472 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 01:03:10.160 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:03:14.222 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 01:03:14.223 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 01:03:15.735 [main] Hook - TESTE FINALIZADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:03:15.735 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 01:15:40.429 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:15:44.705 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 01:15:44.706 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 01:15:46.228 [main] DataYaml - Salvando dados no arquivo Usuarios no titulo usuario
+[INFO ] 2021-12-06 01:15:46.265 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 01:15:46.374 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 01:15:46.669 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 01:15:46.680 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 01:16:03.893 [main] Hook - TESTE FINALIZADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:16:03.893 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 01:16:43.319 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:16:47.371 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 01:16:47.373 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 01:16:48.849 [main] DataYaml - Salvando dados no arquivo Usuarios no titulo usuario
+[INFO ] 2021-12-06 01:16:48.864 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 01:16:48.978 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 01:16:49.258 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 01:16:49.270 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 01:16:49.348 [main] Hook - TESTE FINALIZADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:16:49.348 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 01:44:41.291 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:44:45.227 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 01:44:45.230 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 01:44:46.486 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 01:44:46.714 [main] Hook - TESTE FINALIZADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:44:46.715 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 01:45:59.332 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:46:03.010 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 01:46:03.011 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 01:46:04.237 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 01:46:04.520 [main] Hook - TESTE FINALIZADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:46:04.520 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 01:47:54.425 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:47:59.188 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 01:47:59.190 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 01:49:06.983 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:49:11.070 [main] DataYaml - Salvando dados no arquivo Usuarios no titulo usuario
+[INFO ] 2021-12-06 01:49:11.082 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 01:49:11.176 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 01:49:11.221 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 01:49:11.223 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 01:49:12.782 [main] Hook - TESTE FINALIZADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:49:12.782 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 01:49:35.793 [main] Hook - TESTE INICIADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:49:39.950 [main] DataYaml - Salvando dados no arquivo Usuarios no titulo usuario
+[INFO ] 2021-12-06 01:49:39.958 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 01:49:40.029 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 01:49:40.064 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 01:49:40.065 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 01:49:41.648 [main] Hook - TESTE FINALIZADO: Acessar página de login e cadastrar um novo usuário
+[INFO ] 2021-12-06 01:49:41.648 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 02:57:17.855 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 02:57:20.389 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 02:57:20.389 [main] Hook - TESTE STATUS: UNDEFINED
+[INFO ] 2021-12-06 03:25:07.443 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:25:10.625 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:25:10.728 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:25:10.864 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 03:25:11.324 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:25:11.324 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 03:32:09.233 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:32:13.599 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:32:13.694 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:32:14.064 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 03:32:14.324 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:32:14.324 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 03:32:38.626 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:32:43.192 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:32:43.445 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:32:43.543 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 03:32:43.829 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:32:43.829 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 03:33:26.338 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:33:39.168 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:33:40.156 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:33:59.845 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:34:11.229 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:34:12.208 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:35:08.226 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:35:17.074 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:35:18.088 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:37:13.085 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:37:23.190 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:37:24.114 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:38:16.933 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:38:25.004 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:38:25.965 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:39:44.914 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:39:49.255 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:39:49.621 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:39:49.623 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 03:39:49.624 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 03:41:10.436 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:41:18.382 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:41:19.315 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:42:59.310 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 03:42:59.324 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 03:44:49.591 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:44:58.762 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:44:59.801 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:45:39.149 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 03:45:39.151 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 03:47:02.610 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:47:13.279 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:47:14.274 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:48:24.079 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 03:48:24.089 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 03:48:58.213 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:49:11.598 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:49:12.534 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:49:17.908 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 03:49:17.911 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 03:51:46.261 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:51:50.303 [main] DataYaml - Salvando dados no arquivo Usuarios no titulo usuario
+[INFO ] 2021-12-06 03:51:50.314 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:51:50.418 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:52:01.761 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:52:01.845 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:53:32.138 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:53:36.421 [main] DataYaml - Salvando dados no arquivo Usuarios no titulo usuario
+[INFO ] 2021-12-06 03:53:36.434 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:53:36.540 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:53:44.608 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:53:44.683 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:58:08.141 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:58:43.341 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:58:44.352 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 03:58:58.303 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 03:59:26.596 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 03:59:27.639 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 04:00:31.296 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 04:00:31.588 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 04:00:31.588 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 04:00:44.540 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 04:00:48.517 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 04:00:48.649 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 04:00:49.234 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-06 04:00:49.469 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 04:00:49.469 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-06 04:03:39.384 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 04:04:03.263 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 04:04:07.516 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 04:04:07.837 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 04:16:15.929 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 04:16:15.929 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 04:16:43.632 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 04:16:48.287 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 04:16:48.626 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 04:37:01.135 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 04:37:05.478 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 04:37:05.691 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 08:49:27.906 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 08:49:27.906 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 08:52:28.115 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 08:52:32.544 [main] DataYaml - Salvando dados no arquivo Usuarios no titulo usuario
+[INFO ] 2021-12-06 08:52:32.557 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 08:52:32.659 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 08:52:33.296 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 08:52:33.309 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 08:52:33.601 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-06 08:52:33.603 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-06 08:53:45.808 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 08:53:45.809 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 08:54:47.088 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 08:54:50.848 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 08:54:50.955 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-06 08:54:51.781 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 08:54:51.781 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-06 23:56:37.673 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-06 23:56:44.514 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-06 23:56:44.801 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:19:42.252 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:19:42.252 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-07 00:19:56.747 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:20:01.096 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:20:01.440 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:20:29.121 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-07 00:20:29.409 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:20:29.410 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-07 00:20:41.161 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:20:45.974 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:20:46.075 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:20:48.398 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-07 00:20:48.813 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:20:48.813 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-07 00:21:31.646 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:21:35.872 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:21:36.216 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:25:36.301 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:25:40.673 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:25:40.948 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:27:22.056 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:27:26.544 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:27:26.944 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:28:53.378 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:28:57.694 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:28:57.979 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:40:19.927 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:40:24.196 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:40:24.477 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:42:01.263 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:42:01.263 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-07 00:44:19.291 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:44:23.642 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:44:23.890 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:50:28.780 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:50:33.070 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:50:33.462 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:50:33.464 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:50:33.485 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 00:50:35.671 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:50:35.672 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 00:50:37.498 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:50:37.498 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 00:50:39.813 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:50:39.813 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 00:56:43.588 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:56:47.854 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:56:48.177 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:56:48.178 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:56:48.180 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 00:56:50.423 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:56:50.423 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 00:56:52.247 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:56:52.247 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 00:56:54.645 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:56:54.645 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 00:57:28.022 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:57:28.022 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-07 00:58:01.508 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:58:05.628 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:58:05.946 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:58:05.948 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:58:05.950 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 00:58:08.220 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:58:08.220 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 00:58:10.071 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:58:10.071 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 00:58:12.455 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:58:12.455 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 00:58:49.512 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:58:49.512 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-07 00:59:35.119 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 00:59:39.227 [main] DataYaml - Salvando dados no arquivo Usuarios no titulo usuario
+[INFO ] 2021-12-07 00:59:39.239 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:59:39.334 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:59:39.902 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 00:59:39.916 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 00:59:39.917 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 00:59:39.919 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 01:02:38.842 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 01:02:43.087 [main] DataYaml - Salvando dados no arquivo Usuarios no titulo usuario
+[INFO ] 2021-12-07 01:02:43.097 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 01:02:43.175 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 01:02:43.709 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 01:02:43.720 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 01:02:43.722 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 01:02:43.723 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 01:04:12.993 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 01:04:16.770 [main] DataYaml - Salvando dados no arquivo Usuarios no titulo usuario
+[INFO ] 2021-12-07 01:04:16.778 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 01:04:16.854 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 01:04:17.347 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 01:04:17.359 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 01:04:17.671 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 01:04:17.674 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 01:04:19.651 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 01:04:19.651 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 01:04:21.915 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 01:04:21.915 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 01:04:23.674 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 01:04:23.674 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 01:04:26.106 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 01:04:26.107 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 01:04:52.098 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 01:04:52.098 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-07 01:05:25.097 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 01:05:30.106 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 01:05:30.391 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 01:05:30.393 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 01:05:30.395 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 01:05:32.680 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 01:05:32.680 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 01:05:34.431 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 01:05:34.431 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 01:05:36.859 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 01:05:36.859 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 01:05:51.517 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 01:05:51.517 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-07 19:20:17.536 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 19:20:25.810 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 19:20:26.197 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 19:20:26.199 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:20:26.201 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:20:28.523 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:20:28.523 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:20:30.390 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:20:30.391 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:20:32.786 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:20:32.786 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 19:36:36.470 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 19:36:40.971 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 19:36:41.377 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 19:36:41.379 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:36:41.380 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:36:43.660 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:36:43.661 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:36:45.571 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:36:45.571 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:36:47.975 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:36:47.975 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 19:40:03.329 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 19:40:07.865 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 19:40:08.102 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 19:40:08.105 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:40:08.106 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:40:10.327 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:40:10.327 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:40:12.225 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:40:12.225 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:40:14.707 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:40:14.707 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 19:41:48.459 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 19:41:52.721 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 19:41:52.953 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 19:41:52.955 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:41:52.956 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:41:55.220 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:41:55.220 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:42:28.064 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 19:42:32.232 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 19:42:32.568 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 19:42:32.570 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:42:32.571 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:42:34.827 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:42:34.828 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:42:36.672 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:42:36.672 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:42:39.013 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:42:39.014 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 19:46:47.826 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 19:46:52.017 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 19:46:52.277 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 19:46:52.279 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:46:52.280 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:46:54.528 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:46:54.528 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:46:56.445 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:46:56.445 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 19:46:58.843 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 19:46:58.843 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 20:48:59.506 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 20:49:04.463 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 20:49:04.731 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 20:49:04.734 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:49:04.736 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:49:08.730 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:49:08.730 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:49:10.622 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:49:10.623 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:49:13.008 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:49:13.008 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 20:52:24.629 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 20:52:29.238 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 20:52:29.507 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 20:52:29.508 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:52:29.510 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:52:31.827 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:52:31.827 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:52:33.665 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:52:33.665 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:52:36.650 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:52:36.650 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 20:53:45.413 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-07 20:53:45.738 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 20:53:45.739 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-07 20:54:44.500 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 20:54:49.233 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 20:54:49.510 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 20:54:49.512 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:54:49.513 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:54:51.893 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:54:51.893 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:54:54.075 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:54:54.075 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:54:56.458 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:54:56.459 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 20:54:59.051 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 20:54:59.051 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-07 20:55:17.555 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 20:55:21.640 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 20:55:22.100 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 20:55:22.102 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:55:22.104 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:55:24.363 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:55:24.363 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:55:26.760 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:55:26.761 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:55:29.152 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:55:29.152 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 20:57:17.633 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 20:57:21.448 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 20:57:21.527 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 20:57:21.528 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:57:21.529 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:57:23.944 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:57:23.944 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:57:25.814 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:57:25.815 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:57:28.195 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:57:28.195 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 20:57:31.217 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-07 20:57:31.496 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 20:57:31.497 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-07 20:58:13.912 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 20:58:18.145 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 20:58:18.374 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 20:58:18.376 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:58:18.377 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:58:20.650 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:58:20.651 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:58:22.515 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:58:22.515 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 20:58:24.826 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 20:58:24.826 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 21:01:33.896 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 21:01:38.440 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 21:01:38.744 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 21:01:38.746 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 21:01:38.747 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 21:01:41.074 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 21:01:41.074 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 21:01:42.964 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 21:01:42.964 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 21:01:45.330 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 21:01:45.330 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 21:02:04.110 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-07 21:02:04.112 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-07 21:02:34.005 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-07 21:02:34.005 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-07 21:02:35.208 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-07 21:02:35.455 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 21:02:35.455 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-07 21:03:13.109 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 21:03:16.647 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-07 21:03:16.723 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-07 21:03:16.724 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 21:03:16.726 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 21:03:19.283 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 21:03:19.283 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 21:03:21.155 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 21:03:21.155 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-07 21:03:23.556 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-07 21:03:23.556 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-07 21:03:25.711 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-07 21:03:25.712 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-07 21:03:27.184 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-07 21:03:27.184 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-07 21:03:28.363 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-07 21:03:28.633 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-07 21:03:28.634 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-08 10:03:56.026 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 10:04:05.379 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 10:04:05.490 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 10:04:05.492 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 10:04:05.493 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 10:04:07.733 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 10:04:07.733 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 10:04:09.594 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 10:04:09.594 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 10:04:11.993 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 10:04:11.993 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 10:04:52.871 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 10:04:52.871 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 10:04:54.382 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 10:04:54.382 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 10:06:44.340 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 10:06:48.989 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 10:06:49.254 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 10:06:49.255 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 10:06:49.256 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 10:06:51.462 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 10:06:51.462 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 10:06:53.299 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 10:06:53.299 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 10:06:55.963 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 10:06:55.963 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:24:51.816 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:24:56.196 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:24:56.298 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:24:56.300 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:24:56.301 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:24:58.783 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:24:58.783 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:25:01.192 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:25:01.193 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:25:03.062 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:25:03.062 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:25:11.667 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:25:15.476 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:25:15.560 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:25:15.561 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:25:15.562 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:25:17.863 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:25:17.864 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:25:20.367 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:25:20.367 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:25:22.188 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:25:22.188 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:25:29.760 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:25:33.504 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:25:33.603 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:25:33.604 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:25:33.605 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:25:35.958 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:25:35.959 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:25:38.404 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:25:38.405 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:25:40.253 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:25:40.254 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:25:52.704 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:25:56.640 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:25:56.757 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:25:56.759 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:25:56.760 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:25:59.021 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:25:59.021 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:26:01.467 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:26:01.467 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:26:03.270 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:26:03.270 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:26:10.868 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:26:14.654 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:26:14.748 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:26:14.750 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:26:14.751 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:26:17.096 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:26:17.096 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:26:19.520 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:26:19.520 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:26:21.380 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:26:21.380 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:26:29.602 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:26:33.556 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:26:33.677 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:26:33.678 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:26:33.679 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:26:35.982 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:26:35.982 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:26:38.433 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:26:38.434 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:26:40.337 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:26:40.337 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:27:32.335 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:27:36.397 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:27:36.701 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:27:36.703 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:27:36.704 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:27:38.895 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:27:38.895 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:27:41.369 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:27:41.369 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:27:52.732 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:27:52.732 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:28:07.828 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:28:11.924 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:28:12.166 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:28:12.168 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:28:12.169 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:28:14.321 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:28:14.321 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:28:16.775 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:28:16.775 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:28:18.696 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:28:18.696 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:28:20.222 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:28:20.223 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:31:19.935 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:31:19.935 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:32:28.849 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:32:32.844 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:32:32.949 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:32:32.951 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:32:32.951 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:32:35.228 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:32:35.229 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:32:37.667 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:32:37.667 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:32:39.619 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:32:39.619 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:32:42.197 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:32:42.197 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:33:25.443 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:33:29.658 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:33:29.995 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:33:29.997 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:33:29.999 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:33:32.213 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:33:32.214 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:33:34.675 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:33:34.675 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:33:37.686 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:33:37.686 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:33:40.158 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:33:40.158 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:35:34.884 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:35:34.884 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:35:57.474 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:36:05.461 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:36:05.799 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:36:05.801 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:36:05.802 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:36:08.425 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:36:08.425 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:36:12.373 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:36:12.373 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:36:44.132 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:36:44.133 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:37:15.805 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:37:15.805 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:37:25.050 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:37:25.050 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:37:52.918 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:37:52.918 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:37:56.743 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:37:56.743 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:37:59.428 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:37:59.428 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:38:21.568 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:38:21.568 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:43:44.015 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:43:47.887 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:43:48.019 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:43:48.021 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:43:48.023 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:43:50.404 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:43:50.404 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:43:54.203 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:43:54.203 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:43:56.111 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:43:56.112 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:44:05.082 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:44:08.741 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:44:08.853 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:44:08.855 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:44:08.856 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:44:11.206 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:44:11.207 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:44:13.953 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:44:13.953 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:44:15.809 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:44:15.810 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:44:24.475 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:44:28.398 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:44:28.498 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:44:28.500 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:44:28.501 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:44:30.966 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:44:30.967 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:44:33.447 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:44:33.447 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:44:35.334 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:44:35.334 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:44:51.524 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:44:56.039 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:44:56.170 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:44:56.172 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:44:56.173 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:44:58.508 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:44:58.508 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:45:01.446 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:45:01.446 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:45:03.526 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:45:03.527 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:45:10.460 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:45:14.228 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:45:14.325 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:45:14.327 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:45:14.328 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:45:16.710 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:45:16.710 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:45:19.332 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:45:19.332 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:45:21.311 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:45:21.311 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:45:59.844 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:46:03.667 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:46:03.741 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:46:03.743 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:46:03.743 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:46:06.204 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:46:06.204 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:46:08.925 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:46:08.925 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:46:11.498 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:46:11.499 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:46:13.656 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:46:13.658 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:46:15.749 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:46:15.750 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:46:17.799 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:46:17.799 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:47:04.279 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:47:08.547 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:47:08.627 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:47:08.629 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:47:08.630 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:47:11.168 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:47:11.169 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:47:13.909 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:47:13.909 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:47:15.866 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:47:15.866 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:47:17.346 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:47:17.346 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:47:18.809 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:47:18.810 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:47:20.260 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:47:20.261 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:47:21.784 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:47:21.784 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:47:38.034 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:47:41.780 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:47:41.922 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:47:41.923 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:47:41.924 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:47:44.284 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:47:44.284 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:47:46.763 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:47:46.763 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:47:48.664 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:47:48.664 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:47:50.143 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:47:50.143 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:47:51.529 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:47:51.529 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:48:15.695 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:48:19.482 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:48:19.588 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:48:19.589 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:48:19.590 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:48:21.828 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:48:21.828 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:48:24.208 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:48:24.208 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:48:26.190 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:48:26.190 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:48:37.951 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:48:41.831 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:48:41.931 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:48:41.933 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:48:41.934 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:48:44.211 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:48:44.211 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:48:46.657 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:48:46.657 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:48:48.702 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:48:48.702 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:49:11.313 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:49:15.132 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:49:15.228 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:49:15.230 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:49:15.231 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:49:17.674 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:49:17.674 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:49:20.121 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:49:20.121 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:49:22.420 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:49:22.420 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:49:38.716 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:49:42.383 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:49:42.484 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:49:42.486 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:49:42.487 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:49:44.862 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:49:44.862 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:49:47.274 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:49:47.274 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:49:49.659 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:49:49.659 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:49:58.564 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:50:02.299 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:50:02.388 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:50:02.389 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:50:02.391 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:50:04.683 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:50:04.683 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:50:07.162 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:50:07.162 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:50:09.298 [main] Report - Tirando print screen da tela
+[INFO ] 2021-12-08 17:50:09.573 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:50:09.573 [main] Hook - TESTE STATUS: FAILED
+[INFO ] 2021-12-08 17:50:32.682 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:50:36.532 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:50:36.609 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:50:36.610 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:50:36.611 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:50:38.928 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:50:38.928 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:50:41.312 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:50:41.313 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:50:43.981 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:50:43.981 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:51:00.282 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:51:04.039 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:51:04.161 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:51:04.163 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:51:04.164 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:51:06.609 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:51:06.609 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:51:09.025 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:51:09.025 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:51:11.957 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:51:11.957 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:51:36.199 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:51:40.107 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:51:40.182 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:51:40.184 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:51:40.185 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:51:42.692 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:51:42.692 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:51:45.317 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:51:45.317 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:51:48.292 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:51:48.292 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-08 17:52:17.108 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:52:20.859 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-08 17:52:20.963 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-08 17:52:20.965 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:52:20.966 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:52:23.406 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:52:23.406 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-08 17:52:25.903 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-08 17:52:25.904 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-08 17:52:28.228 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:52:28.228 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:52:30.111 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:52:30.111 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:52:32.012 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-08 17:52:32.013 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-08 17:52:34.216 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-08 17:52:34.217 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-10 00:06:09.173 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 00:06:18.912 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-10 00:06:19.015 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-10 00:06:19.036 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 00:06:19.037 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 00:06:21.264 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 00:06:21.265 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 00:06:27.426 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 00:06:27.426 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-10 00:06:30.359 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 00:06:30.359 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-10 00:25:54.384 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 00:26:01.125 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-10 00:26:01.549 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-10 00:26:01.550 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 00:26:01.551 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 00:26:03.870 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 00:26:03.870 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 00:26:08.346 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 00:26:08.346 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-10 00:27:04.644 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 00:27:08.482 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-10 00:27:08.563 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-10 00:27:08.564 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 00:27:08.566 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 00:27:10.889 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 00:27:10.889 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 00:27:13.552 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 00:27:13.553 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-10 00:27:18.402 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-10 00:27:18.402 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-10 00:27:19.935 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-10 00:27:19.936 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-10 00:27:21.463 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-10 00:27:21.463 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-10 00:27:25.530 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 00:27:25.531 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-10 03:23:40.553 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:23:44.774 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-10 03:23:44.879 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-10 03:23:44.881 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:23:44.916 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:23:47.351 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:23:47.352 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:23:49.139 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:23:49.139 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:23:51.499 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:23:51.499 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-10 03:23:54.461 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:23:54.461 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-10 03:24:07.256 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:24:11.270 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-10 03:24:11.401 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-10 03:24:11.403 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:24:11.404 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:24:13.748 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:24:13.748 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:24:15.544 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:24:15.544 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:24:17.925 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:24:17.925 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-10 03:24:20.885 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:24:20.885 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-10 03:25:08.207 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:25:12.371 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-10 03:25:12.454 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-10 03:25:12.456 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:25:12.457 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:25:14.796 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:25:14.796 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:25:17.221 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:25:17.221 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-10 03:25:20.404 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:25:20.404 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-10 03:25:36.914 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:25:41.162 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-10 03:25:41.422 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-10 03:25:41.424 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:25:41.425 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:25:43.591 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:25:43.591 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:25:46.053 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:25:46.053 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-10 03:26:56.077 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:26:59.876 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-10 03:27:00.005 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-10 03:27:00.006 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:27:00.008 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:27:02.406 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:27:02.407 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-10 03:27:05.703 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:27:05.703 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-10 03:27:26.596 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:27:30.386 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-10 03:27:30.465 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-10 03:27:30.466 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:27:30.467 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-10 03:27:32.840 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-10 03:27:32.840 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-10 03:27:35.333 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-10 03:27:35.333 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-10 03:27:37.184 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-10 03:27:37.184 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-10 03:27:39.088 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-10 03:27:39.088 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-10 03:27:41.091 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-10 03:27:41.092 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-10 03:27:43.297 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-10 03:27:43.297 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-10 03:27:45.342 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-10 03:27:45.342 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-13 10:49:43.375 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-13 10:49:50.622 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-13 10:49:50.950 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-13 10:49:50.952 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-13 10:49:50.953 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-13 10:49:53.305 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-13 10:49:53.306 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-13 10:49:55.887 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-13 10:49:55.888 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-23 17:01:53.050 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-23 17:02:02.920 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-23 17:02:03.111 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-23 17:02:03.112 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-23 17:02:03.114 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-23 17:02:05.512 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-23 17:02:05.512 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-23 17:02:29.248 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-23 17:02:29.248 [main] Hook - TESTE STATUS: PASSED
+[INFO ] 2021-12-23 17:02:40.647 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-23 17:02:45.130 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-23 17:02:45.385 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-23 17:02:45.387 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-23 17:02:45.390 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-23 17:02:47.856 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-23 17:02:47.856 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-23 17:07:59.419 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-23 17:08:03.437 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-23 17:08:03.723 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-23 17:08:03.726 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-23 17:08:03.728 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-23 17:08:06.098 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-23 17:08:06.098 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-23 17:08:08.042 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-23 17:08:08.042 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-23 17:08:10.988 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-23 17:08:10.988 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-23 17:12:23.704 [main] Hook - TESTE INICIADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-23 17:12:27.617 [main] DataYaml - Pegando arquivo Usuarios.yaml com a massa de dados do ambiente des
+[INFO ] 2021-12-23 17:12:27.810 [main] DataYaml - Retornando objeto HashMap com a massa de dados do arquivo Usuarios com titulo usuario
+[INFO ] 2021-12-23 17:12:27.812 [main] Verifications - Verificando se o elemento via locator By.xpath: //button[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-23 17:12:27.813 [main] Action - Retornando um elemento web via locator By.xpath: //button[@type='submit'] 
+[INFO ] 2021-12-23 17:12:30.414 [main] Verifications - Verificando se o elemento via locator By.xpath: //input[@type='submit'] e visivel e clicavel
+[INFO ] 2021-12-23 17:12:30.415 [main] Action - Retornando um elemento web via locator By.xpath: //input[@type='submit'] 
+[INFO ] 2021-12-23 17:12:32.894 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-23 17:12:32.894 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-23 17:12:34.761 [main] Verifications - Verificando o elemento via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] e visivel
+[INFO ] 2021-12-23 17:12:34.761 [main] Action - Retornando um elemento web via locator By.xpath: //div[@role='alert' and contains(text(), 'sucesso')] 
+[INFO ] 2021-12-23 17:12:36.607 [main] Hook - TESTE FINALIZADO: Cadastrar um usuario e realizar o login
+[INFO ] 2021-12-23 17:12:36.608 [main] Hook - TESTE STATUS: PASSED

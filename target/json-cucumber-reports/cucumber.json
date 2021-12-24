@@ -1,0 +1,132 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4237827579,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.init(Scenario)"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Cadastrar um usuario e realizar o login",
+        "description": "",
+        "id": "realizar-tarefa-de-aluguel;cadastrar-um-usuario-e-realizar-o-login",
+        "after": [
+          {
+            "result": {
+              "duration": 74567686,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.end(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 761161716,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "acessar a aplicação",
+            "match": {
+              "location": "InicialSteps.acessarAAplicação()"
+            },
+            "keyword": "Dado "
+          },
+          {
+            "result": {
+              "duration": 2648285967,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Realizar o login com um usuario \"existente\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"existente\"",
+                  "offset": 32
+                }
+              ],
+              "location": "LoginUserSteps.realizarOLoginComUmUsuario(String)"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1916465410,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "exibir resumo mensal do mes \"12\" do ano \"2021\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"12\"",
+                  "offset": 28
+                },
+                {
+                  "val": "\"2021\"",
+                  "offset": 40
+                }
+              ],
+              "location": "ResumoMensalSteps.exibirResumoMensalDoMesDoAno(String,String)"
+            },
+            "keyword": "E "
+          },
+          {
+            "result": {
+              "duration": 4523747036,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "exluir movimentacao com descricao \"Aluguel casa 14\" e data \"10/12/2021\" e valor \"-1654.12\" e situacao \"Pago\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Aluguel casa 14\"",
+                  "offset": 34
+                },
+                {
+                  "val": "\"10/12/2021\"",
+                  "offset": 59
+                },
+                {
+                  "val": "\"-1654.12\"",
+                  "offset": 80
+                },
+                {
+                  "val": "\"Pago\"",
+                  "offset": 102
+                }
+              ],
+              "location": "ResumoMensalSteps.exluirMovimentacaoComDescricaoEDataEValorESiatuacao(String,String,String,String)"
+            },
+            "keyword": "E "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@dev"
+          }
+        ]
+      }
+    ],
+    "name": "Realizar tarefa de aluguel",
+    "description": "  Acessar o sistema e efetuar as tarefas",
+    "id": "realizar-tarefa-de-aluguel",
+    "keyword": "Funcionalidade",
+    "uri": "src/test/resources/features/Processo.feature",
+    "tags": []
+  }
+]
